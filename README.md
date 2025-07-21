@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angusforeman
 - 👀 I’m interested in tech, technical leadership, data analytics, code, illustration, brewing etc 
-- 🌱 I’m currently learning more modern architecture patterns, practical python, c# (in notebooks), everdday containers, yet more infra as code, data management tooling, Edward de Bono's techniques, the latest advanced data analytics tools, adobe illustrator, Top Hatch's Concepts App and brewing science  
+- 🌱 I’m currently learning more modern architecture patterns, practical python, c# (in notebooks), everdday containers, yet more infra as code, data management tooling, Edward de Bono's techniques, the latest advanced data analytics tools, adobe illustrator, etc etc
 
 
 <!---
